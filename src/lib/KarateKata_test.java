@@ -12,7 +12,6 @@ import org.junit.jupiter.api.Test;
 
 class KarateKata_test {
 	
-	public KarateKata karateKata;
 	public ArrayList<Integer> sortArray = new ArrayList<Integer>();
 	public int expected;
 	public int inputInt;
